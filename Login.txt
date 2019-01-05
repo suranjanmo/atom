@@ -1,0 +1,4 @@
+whereis git--- whereis command used to check the installation path of that software
+
+
+http://localhost:8080/secure/Dashboard.jspa
